@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "berserker",
+  "version": "${version}",
+  "name": "Berserker Blade",
+  "description": "A custom sword with a Rage meter and an Adrenaline meter.",
+  "authors": ["You"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.berserker.BerserkerMod"],
+    "client": ["com.berserker.client.BerserkerClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.5",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

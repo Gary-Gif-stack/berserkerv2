@@ -1,0 +1,9 @@
+{
+  "item.berserker.berserker_blade": "Berserker Blade",
+  "item.berserker.berserker_blade.tooltip.rage": "Rage: fills as you take damage. Press the rage key to unleash it.",
+  "item.berserker.berserker_blade.tooltip.adrenaline": "Adrenaline: fills while unhurt, press its key when full. A hit resets it.",
+  "key.berserker.rage": "Activate Rage",
+  "key.berserker.adrenaline": "Activate Adrenaline",
+  "key.berserker.slash": "Wide Slash",
+  "category.berserker": "Berserker Blade"
+}
